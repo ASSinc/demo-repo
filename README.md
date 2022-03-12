@@ -8,7 +8,6 @@
 
 ### Clone the repo locally
 
-
 * *With ssh:* git clone git@github.com:ASSinc/demo-repo.git
 * *http:* git clone https://github.com/ASSinc/demo-repo.git
 
@@ -17,4 +16,11 @@
 * git add .
 * git commit -m "username"
 * git push -u origin [username]
+
+## Team members
+
+### realfranser
+
+* Name: Francisco Javier Serrano
+* Fun fact: I am a crypto bro like @PabloMartinMorales
 
