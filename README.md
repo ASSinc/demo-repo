@@ -24,3 +24,8 @@
 * Name: Francisco Javier Serrano
 * Fun fact: I am a crypto bro like @PabloMartinMorales
 
+
+### ManuelHuesoBejar
+
+* Name: Manuel Hueso Bejar
+* Fun fact: It's funny in itself to have a hardware engineer in a soft project
