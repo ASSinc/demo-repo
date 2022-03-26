@@ -29,3 +29,8 @@
 
 * Name: Manuel Hueso Bejar
 * Fun fact: It's funny in itself to have a hardware engineer in a soft project
+
+### MartinMoralesPablo
+
+* Name: Pablo Martín
+* Fun fact: yesterday I had cannelloni for dinner with the DOPE Grandma
